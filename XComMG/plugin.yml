@@ -1,0 +1,12 @@
+name: XComMG
+main: com.redmancometh.xcommg.XComMG
+version: 1.0
+depend: [LilyPad-Connect, XCom]
+softdepend: [BattleArena, MobArena]
+commands:
+   arena:
+      description: Join arena
+      usage: /arena [type]
+   pvp:
+      description: Join arena
+      usage: /arena [type]
